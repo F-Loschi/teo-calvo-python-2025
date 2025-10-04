@@ -24,7 +24,7 @@ Este repositório reúne os códigos desenvolvidos durante os estudos da **playl
 ## 📌 Como utilizar
 1. Clone o repositório:
  ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/F-Loschi/teo-calvo-python-2025.git
 ```
 
 2. Entre na pasta do projeto:

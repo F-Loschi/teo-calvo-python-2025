@@ -1,10 +1,13 @@
 #%%
-idade = 25
+idade = 70
 
-if idade>=18:
+if idade>=70:
+    print("Senhor, beba com calma.")
+    print("Consulta sua esposa/marido primeiro.")
+elif idade>=18:
     print("Você pode beber e ser preso!")
     print("Beba com moderação!")
-if idade<18:
+else:
     print("Tu não pode beber e seus pais vão ser presos por você")
     print("Vai pra casa, moleque")
 # %%
