@@ -13,5 +13,17 @@ with open(arquivo, "r", encoding="utf-8") as open_file:
     data = open_file.readlines()
 
 for linhas in data:
-    print(linhas.strip("\n").split(";"))
+    print(linhas)
 # %%
+
+dados = dict()
+
+chaves = data[0].strip().split(";")
+print(chaves)
+for c in chaves:
+    dados[c] = []
+
+for linhas in data[1:]:
+    valores = linhas.strip("\n").split(";")
+    for i in range(len(chaves)):
+        dados[chaves[i]].append(valores[i])
