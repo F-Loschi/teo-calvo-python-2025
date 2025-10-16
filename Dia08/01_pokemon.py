@@ -22,6 +22,7 @@ resposta.json()
 dados = resposta.json()
 print(type(dados))
 # %%
+from tqdm import tqdm
 pokemons = [
     "pikachu",
     "squirtle",
@@ -34,15 +35,18 @@ pokemons = [
 url = "https://pokeapi.co/api/v2/pokemon/{pokemon}/"
 #Colocar algo entre "{}" se chama "place-holder", que é como um coringa, algo que pode ser alterado
 dados = []
-for i in pokemons:
+for i in tqdm(pokemons):
     resposta = requests.get(url.format(pokemon=i))
     if resposta.status_code == 200:
         dados.append(resposta.json())
 
 dados
+import pandas as pd
+dataset = pd.DataFrame(dados)
+dataset.to_csv("Dia08\pokemons.csv", sep=";")
 # %%
 import json
 
-with open("pokemons.json", "w") as open_file:
+with open("Dia08\pokemons.json", "w") as open_file:
     json.dump(dados, open_file, ensure_ascii= False, indent=4)
 # %%
