@@ -117,6 +117,7 @@ CURSOPYTHON2025/
 │   └── Dia*/
 │
 ├── .gitignore
+├── LICENSE 
 └── README.md
 ```
 
