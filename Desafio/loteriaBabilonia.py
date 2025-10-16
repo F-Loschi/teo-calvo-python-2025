@@ -5,6 +5,17 @@
 import random
 
 def entradaUsuario():
+    '''
+    Função que realiza a entrada do usuário.
+
+    Pede a entrada e tenta fazer a conversão para inteiro, usando um try-except para caso
+    o usuário entre um valor não numérico.
+
+    Função também realiza a validação do número entrado, caso esteja fora dos parâmetros
+    esperados(entre 1 e 15).
+
+    Função roda infinitamente e só para quando o usuário entra um valor válido.
+    '''
     while True:
         try:
             entrada = int(input("Qual será o número?\n"))
