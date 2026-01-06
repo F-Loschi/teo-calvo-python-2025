@@ -186,7 +186,7 @@ Conforme os estudos avançam, novas seções serão adicionadas:
 | Módulo | Status | Conclusão | Observações |
 |--------|--------|-----------|-------------|
 | 📘 Introdução ao Python | ✅ Concluído | 100% | Fundamentos consolidados |
-| 🐼 Pandas | 🔄 Em andamento | ~12% | Importando dados |
+| 🐼 Pandas | 🔄 Em andamento | ~23% | Dataframes |
 | 📊 Estatística | ⏳ Não iniciado | 0% | Aguardando conclusão do Pandas |
 | 🤖 Machine Learning | ⏳ Não iniciado | 0% | Próxima etapa |
 | 📈 Visualização de Dados | ⏳ Não iniciado | 0% | A definir |
