@@ -4,4 +4,4 @@
 *.parquet
 *.xlsx
 
-!Pandas/data/
+! Pandas/data/
