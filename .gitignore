@@ -3,3 +3,5 @@
 *.db
 *.parquet
 *.xlsx
+
+!Pandas/data/
