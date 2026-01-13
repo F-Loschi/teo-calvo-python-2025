@@ -114,7 +114,8 @@ CURSOPYTHON2025/
 │ 
 ├── Pandas/
 │   ├── data/
-│   └── Dia*/
+│   ├── Dia*/ 
+│   └── Exercicios/
 │
 ├── .gitignore
 ├── LICENSE 
@@ -168,6 +169,7 @@ Nesta parte estão os estudos da biblioteca Pandas, focando em análise e manipu
 **Organização da pasta:**
 - **data/**: Datasets utilizados nos exercícios
 - **Dia\*/**: Seguindo a mesma lógica explicada em "Introdução ao Python"
+- **exercicios\*/**: Exercícios disponibilizados pelo Téo, junto com o case_homicidios do ipea
 
 ---
 
