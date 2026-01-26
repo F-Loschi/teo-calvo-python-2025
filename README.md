@@ -210,7 +210,7 @@ Conforme os estudos avançam, novas seções serão adicionadas:
 |--------|--------|-----------|-------------|
 | 📘 Introdução ao Python | ✅ Concluído | 100% | Fundamentos consolidados |
 | 🐼 Pandas | ✅ Concluído | 100% | Fundamentos consolidados |
-| 📊 Estatística | ⏳ Não iniciado | 0% | Aguardando conclusão do Pandas |
+| 📊 Estatística | ✅ Concluído | 100% | Fundamentos consolidados |
 | 🤖 Machine Learning | ⏳ Não iniciado | 0% | Próxima etapa |
 | 📈 Visualização de Dados | ⏳ Não iniciado | 0% | A definir |
 
