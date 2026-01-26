@@ -14,10 +14,11 @@ Este repositório reúne os códigos desenvolvidos durante os estudos do **canal
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Objetivo](#-objetivo)
 - [Pré-requisitos](#-pré-requisitos)
-- [Estrutura do Repositório](#️-estrutura-do-repositório)
+- [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Conteúdo](#-conteúdo)
   - [Introdução ao Python](#-introdução-ao-python)
   - [Pandas](#-pandas)
+  - [Estatística](#-estatística)
 - [Progresso dos Estudos](#-progresso-dos-estudos)
 - [Como Utilizar](#-como-utilizar)
 - [Recursos Úteis](#-recursos-úteis)
@@ -117,6 +118,9 @@ CURSOPYTHON2025/
 │   ├── Dia*/ 
 │   └── Exercicios/
 │
+├── Estatistica/
+│    └── Téo_Stats.pdf
+│
 ├── .gitignore
 ├── LICENSE 
 └── README.md
@@ -162,8 +166,6 @@ Esta pasta contém os primeiros passos com a linguagem, baseados no material int
 
 **[Playlist no YouTube](https://www.youtube.com/watch?v=9Cw7iIjFlBc&list=PLvlkVRRKOYFQHnDhjTmXLEz3HU5WTgOcF)**
 
-***📍 Momento atual do estudo***
-
 Nesta parte estão os estudos da biblioteca Pandas, focando em análise e manipulação de dados.
 
 **Organização da pasta:**
@@ -173,11 +175,30 @@ Nesta parte estão os estudos da biblioteca Pandas, focando em análise e manipu
 
 ---
 
+### 📊 Estatística
+
+**[Playlist no YouTube](https://www.youtube.com/watch?v=4CcgZXXIl7o&list=PLvlkVRRKOYFQGIZdz7BycJet9OncyXlbq)**
+
+Nesta pasta, encontram-se os estudos voltados para a análise estatística de dados, fundamentais para a tomada de decisão e modelagem preditiva.
+
+**Destaque do Material:**
+
+📝 Téo_Stats.pdf: Este arquivo é o coração desta seção. Ele contém as anotações detalhadas da matéria, incluindo fórmulas explicadas, conceitos teóricos e a base necessária para aplicar estatística em Python.
+
+Tópicos abordados:
+
+**Estatística Descritiva (Medidas de tendência central e dispersão)**
+
+**Distribuições de Probabilidade**
+
+**Testes de Hipóteses**
+
+---
+
 ### 🧩 Expansão Futura
 
 Conforme os estudos avançam, novas seções serão adicionadas:
 
-- 📊 **Estatística** → Conceitos estatísticos aplicados a dados reais
 - 🤖 **Machine Learning** → Fundamentos e primeiros modelos com Scikit-learn
 - 🎯 **Projeto Final** → Integração de todo o conhecimento adquirido
 
