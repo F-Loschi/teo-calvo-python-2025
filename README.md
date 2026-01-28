@@ -234,7 +234,7 @@ Conforme os estudos avançam, novas seções serão adicionadas:
 - 🔄 Em andamento
 - ⏳ Não iniciado
 
-**Última atualização:** Outubro/2025
+**Última atualização:** Janeiro/2026
 
 ---
 
