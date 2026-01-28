@@ -10,7 +10,7 @@
 - Um monte de if's um atrás do outro que vai diferenciar uma coisa da outra
 
 ## Primeira árvore de decisão
-![image.png](attachment:image.png)
+![alt text](fotos/image-1.png)
 
 ---
 
