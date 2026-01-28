@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Progresso](https://img.shields.io/badge/Progresso-Pandas-orange)
+![Progresso](https://img.shields.io/badge/Progresso-MachineLearning-orange)
 
 Este repositório reúne os códigos desenvolvidos durante os estudos do **canal do Téo Calvo** no YouTube:  
 ➡️ [Python do básico ao Data Science](https://www.youtube.com/@teomewhy)
