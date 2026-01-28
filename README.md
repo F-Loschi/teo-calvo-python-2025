@@ -205,7 +205,7 @@ Organização da pasta:
 
  - data/: Conjuntos de dados utilizados para treinamento e teste dos modelos.
 
- - Dia*/: Notebooks e scripts desenvolvidos durante as lives, seguindo a cronologia dos estudos.
+ - semana01/: Notebooks e scripts desenvolvidos durante as lives, seguindo a cronologia dos estudos.
 
  - Teoria/: Documentação, conceitos fundamentais (como viés, variância, overfitting e métricas de avaliação) e a base matemática dos algoritmos.
 
@@ -226,7 +226,7 @@ Conforme os estudos avançam, novas seções serão adicionadas:
 | 📘 Introdução ao Python | ✅ Concluído | 100% | Fundamentos consolidados |
 | 🐼 Pandas | ✅ Concluído | 100% | Fundamentos consolidados |
 | 📊 Estatística | ✅ Concluído | 100% | Fundamentos consolidados |
-| 🤖 Machine Learning | 🔄 Em andamento | 12% | Prática no Python(Frutas) |
+| 🤖 Machine Learning | 🔄 Em andamento | 20% | Case Star Wars |
 | 📈 Visualização de Dados | ⏳ Não iniciado | 0% | A definir |
 
 **Legenda:**
