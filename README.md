@@ -19,6 +19,7 @@ Este repositório reúne os códigos desenvolvidos durante os estudos do **canal
   - [Introdução ao Python](#-introdução-ao-python)
   - [Pandas](#-pandas)
   - [Estatística](#-estatística)
+  - [Machine Learning](#-machine-learning)
 - [Progresso dos Estudos](#-progresso-dos-estudos)
 - [Como Utilizar](#-como-utilizar)
 - [Recursos Úteis](#-recursos-úteis)
@@ -121,17 +122,14 @@ CURSOPYTHON2025/
 ├── Estatistica/
 │    └── Téo_Stats.pdf
 │
+├── Machine Learning/
+│    ├── data/
+│    ├── Dia*/
+│    ├── Teoria/ 
+│
 ├── .gitignore
 ├── LICENSE 
 └── README.md
-```
-
-### 🧭 Conforme o curso avança, novas pastas serão adicionadas, como:
-
-```bash
-Estatística/
-MachineLearning/
-VisualizaçãoDeDados/
 ```
 
 ---
@@ -195,11 +193,28 @@ Tópicos abordados:
 
 ---
 
+### 🤖 Machine Learning
+
+***📍 Momento atual do estudo***
+
+**[Playlist no YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFR6_LmNcJliicNan2TYeFO2)**
+
+Nesta seção encontram-se os estudos sobre modelos preditivos e algoritmos de aprendizado de máquina, utilizando principalmente a biblioteca Scikit-Learn.
+
+Organização da pasta:
+
+ - data/: Conjuntos de dados utilizados para treinamento e teste dos modelos.
+
+ - Dia*/: Notebooks e scripts desenvolvidos durante as lives, seguindo a cronologia dos estudos.
+
+ - Teoria/: Documentação, conceitos fundamentais (como viés, variância, overfitting e métricas de avaliação) e a base matemática dos algoritmos.
+
+---
+
 ### 🧩 Expansão Futura
 
 Conforme os estudos avançam, novas seções serão adicionadas:
 
-- 🤖 **Machine Learning** → Fundamentos e primeiros modelos com Scikit-learn
 - 🎯 **Projeto Final** → Integração de todo o conhecimento adquirido
 
 ---
@@ -211,7 +226,7 @@ Conforme os estudos avançam, novas seções serão adicionadas:
 | 📘 Introdução ao Python | ✅ Concluído | 100% | Fundamentos consolidados |
 | 🐼 Pandas | ✅ Concluído | 100% | Fundamentos consolidados |
 | 📊 Estatística | ✅ Concluído | 100% | Fundamentos consolidados |
-| 🤖 Machine Learning | ⏳ Não iniciado | 0% | Próxima etapa |
+| 🤖 Machine Learning | 🔄 Em andamento | 12% | Prática no Python(Frutas) |
 | 📈 Visualização de Dados | ⏳ Não iniciado | 0% | A definir |
 
 **Legenda:**
