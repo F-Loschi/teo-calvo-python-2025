@@ -21,3 +21,6 @@ $$
 \text{Soma do Erro Quadrático} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2
 $$
 - Minímos Quadrados: Queremos minimizar a soma do erro quadrático
+
+## Regressão feita no python
+![alt text](fotos/image-3.png)
