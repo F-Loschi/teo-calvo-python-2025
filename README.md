@@ -226,7 +226,7 @@ Conforme os estudos avançam, novas seções serão adicionadas:
 | 📘 Introdução ao Python | ✅ Concluído | 100% | Fundamentos consolidados |
 | 🐼 Pandas | ✅ Concluído | 100% | Fundamentos consolidados |
 | 📊 Estatística | ✅ Concluído | 100% | Fundamentos consolidados |
-| 🤖 Machine Learning | 🔄 Em andamento | 20% | Case Star Wars |
+| 🤖 Machine Learning | 🔄 Em andamento | 48% | Naive Bayes |
 | 📈 Visualização de Dados | ⏳ Não iniciado | 0% | A definir |
 
 **Legenda:**
