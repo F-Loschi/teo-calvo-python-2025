@@ -2,9 +2,7 @@
 Técnica paramétrica em que assumimos que cada variável do dataset segue uma distribuição de probabilidade e esperamos que a variável resposta desloque.
 
 Teorema:
-$$
-P(y \mid X) = \frac{P(y)\,P(X \mid y)}{P(X)}
-$$
+$$P(y \mid X) = \frac{P(y)\,P(X \mid y)}{P(X)}$$
 
 
 Exemplo:
