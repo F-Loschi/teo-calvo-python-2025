@@ -1,0 +1,2 @@
+# Métricas de ajuste para regressão
+Representações gráficas, às vezes, podem ser mal interpretadas por diversos motivos, assim, é bom haver métricas que interpretem o que foi gerado. A ideia é haver um quantitativo que represente o quanto nosso algoritmo aprendeu.
